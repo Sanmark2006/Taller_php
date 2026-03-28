@@ -14,6 +14,7 @@ if ($_POST) {
 <!DOCTYPE html>
 <html>
 <head>
+    <link rel="stylesheet" href="../css/estilos.css">
     <title>Punto 1 - Acrónimo</title>
 </head>
 <body>

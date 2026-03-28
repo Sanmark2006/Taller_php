@@ -30,6 +30,7 @@ if ($_POST) {
 <!DOCTYPE html>
 <html>
 <head>
+    <link rel="stylesheet" href="../css/estilos.css">
     <title>Punto 7</title>
 </head>
 <body>

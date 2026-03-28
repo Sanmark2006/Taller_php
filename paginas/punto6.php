@@ -19,6 +19,7 @@ if ($_POST) {
 <!DOCTYPE html>
 <html>
 <head>
+    <link rel="stylesheet" href="../css/estilos.css">
     <title>Punto 6</title>
 </head>
 <body>
